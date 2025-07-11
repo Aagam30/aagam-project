@@ -1,0 +1,5 @@
+pip>=23.0
+setuptools>=65.0
+wheel
+Flask==2.3.2
+numpy>=1.24,<1.25
